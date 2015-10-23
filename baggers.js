@@ -1,5 +1,53 @@
 var data = {
     "baggers": [
+    	
+    	{
+            "name": "Faten Habachi",
+            "bio": "Designer, Ergonome, UX Designer, UX Design Manager chez Ippon",
+            "websites": [
+                {
+                    "title": "Ippon",
+                    "href": "http://www.ippon.fr"
+                },
+                {
+                    "title": "Ippon Digital",
+                    "href": "ippon-digital.fr/"
+                },
+                {
+                    "title": "Linkedin",
+                    "href": "https://fr.linkedin.com/in/fatenhabachi"
+                }
+            ],
+            "twitter": "fatenh",
+            "contact": "faten.habachi@gmail.com",
+            "mail": "faten.habachi@gmail.com",
+            "location": "Paris (et banlieues)",
+            "sessions": [
+                {
+                    "title": "Approche Design Thinking et (UX) User Experience",
+                    "summary": "Comprendre l'approche Design Thinking, savoir comprendre les utilisateurs et comprendre les différentes activités de l'UX."
+                },
+                
+                {
+                    "title": "Comment évaluer l'utilisabilité d'une application ? ",
+                    "summary": "Introduction aux différentes méthodes d'évaluation de l'utilisabilité d'une application Web, Desktop ou Mobile. Comprendre le jargon des critères ergonomiques."
+                },
+                
+            ],
+            "tags": [
+                "UX",
+               	"UX Design",
+                "Design",
+                "Expérience utilisateur",
+                "Ergonomie",
+                "Design Thinking",
+                "User Interface"
+            ],
+            "cities": [
+                "Paris"
+            ]
+        },
+        
         {
             "name": "Gregory Estrade",
             "bio": "Directeur R&D de Lyra-Network, software & hardware hacker, reverse-engineer, philosophe agile auto-proclamé. Ou Disruptive Innovation Lead Strategist, Instant Expert in Everything, ça dépend. Membre de l'association Silicium de préservation du patrimoine micro-informatique.",
@@ -6762,38 +6810,6 @@ var data = {
 	    "cities": [
 	         "Montpellier"
 	    ]
-        },
-        {
-            "name": "Stéphane Lagraulet",
-            "bio": "Architecte Java chez Ippon Technologies Bordeaux, Stéphane est le référent du pôle conseil pour la région Sud Ouest. Il intervient sur des missions de conseil, de conception ou de développement. Ses domaines de prédilection sont : les applications Java, l'architecture de micro services, les bases de données NoSQL comme MongoDB et les moteurs de recherche basés sur Lucene (SolR / Elasticsearch).",
-            "picture": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/1/000/251/2cc/3efae7d.jpg",
-            "websites": [
-                {
-                    "title": "Blog d'entreprise",
-                    "href": "http://blog.ippon.fr/"
-                },
-                {
-                    "title": "LinkedIn",
-                    "href": "https://fr.linkedin.com/in/stephanlagraulet"
-                }
-            ],
-            "twitter": "stephlag",
-            "contact": "slagraulet@ippon.fr",
-            "mail": "slagraulet@ippon.fr",
-            "location": "Bordeaux",
-            "sessions": [
-                {
-                    "title": "Vers une architecture de microservices",
-                    "summary": "Comment l'architecture de microservices est en train de s'imposer. Retour d'expérience sur la mise en place d'une architecture autour des technologies Spring Boot / Zookeeper."
-                },
-            ],
-            "tags": [
-                "SolR",
-                "MicroServices"
-            ],
-            "cities": [
-                "Bordeaux"
-            ]
         }
     ],
     "cities": [
